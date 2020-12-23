@@ -1,4 +1,7 @@
-# DesignPatternSamples
+# Projeto aplicando design patterns na prática com C# para o bootcamp Decola Dev Avanade 2021 🧡
+</br>
+<h1 align="center"> DesignPatternSamples </h1>
+
 |Branch|Build|
 |-:|-|
 |Develop|![.NET Core](https://github.com/fructuoso/DesignPatternSamples/workflows/.NET%20Core/badge.svg?branch=develop)|
